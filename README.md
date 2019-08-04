@@ -19,11 +19,11 @@
   nickname: type string, not required
 }
 ```
-  **/users (POST)**,
-  **/users/:userId (PUT)**, 
-  **/users/:userId (GET)**,
-  **/users/:userId (DELETE)**,
-  **/users/:userId/articles (GET)**, 
+####  **/users (POST)**,
+####  **/users/:userId (PUT)**, 
+####  **/users/:userId (GET)**,
+####  **/users/:userId (DELETE)**,
+####  **/users/:userId/articles (GET)**, 
 
 #### Article Schema
 
@@ -39,7 +39,7 @@
 }
 ```
 
-* **/articles (POST)**, 
- **/articles/:articleId (PUT)**, 
- **/articles (GET)**,
-**/articles/:articleId (DELETE)**,
+#### **/articles (POST)**, 
+#### **/articles/:articleId (PUT)**, 
+#### **/articles (GET)**,
+#### **/articles/:articleId (DELETE)**,
