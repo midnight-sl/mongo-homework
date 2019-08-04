@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "",
+  "author": "midnight-sl",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.2",
